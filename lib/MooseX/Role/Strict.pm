@@ -3,7 +3,7 @@ package MooseX::Role::Strict;
 use warnings;
 use strict;
 
-our $VERSION = '0.02;
+our $VERSION = '0.02';
 
 use MooseX::Meta::Role::Strict;
 use Moose::Role;
